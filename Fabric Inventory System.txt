@@ -1,0 +1,27 @@
+Fabric Inventory System
+
+Tech:
+    Base Code:
+        Python
+        Django
+        mySQL
+    Servers:
+        Heroku 
+        ClearDB or Google
+    
+UI:
+    User able to enter, review, edit, and delete fabric listings
+
+Tables:
+    Fabric Details - 
+        Material
+        Stretch
+        Color
+        Width
+        Remaining Length
+        Mill
+        Mill Code
+
+Future Expansion:
+    Geomatric calculations - 
+        Allow use of patern geomatry to auto calculate length deductions.
